@@ -18,7 +18,7 @@ end
 def output_array(array)
   i = 0
   while i < array.length do
-    puts message
+    puts array[i]
     i += 1
   end
 end

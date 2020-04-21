@@ -24,7 +24,10 @@ def output_array(array)
 end
 
 def return_string_array(array)
+  i = 0
+  newArray = []
+  while i < array.length do
 
+  end
 
-
-end  
+end
